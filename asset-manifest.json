@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/E-Commerce/static/css/main.07eab3b5.css",
+    "main.js": "/E-Commerce/static/js/main.eac81c60.js",
+    "static/media/fa-solid-900.ttf": "/E-Commerce/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/slider-image-1.jpeg": "/E-Commerce/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
+    "static/media/fa-brands-400.ttf": "/E-Commerce/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/valu_v2.svg": "/E-Commerce/static/media/valu_v2.5c5caa11044cda0ee11afa64d3ac083f.5c5caa11044cda0ee11afa64d3ac083f.svg",
+    "static/media/slider-image-3.jpeg": "/E-Commerce/static/media/slider-image-3.7e5c9f7a513f6db6dd5e.jpeg",
+    "static/media/slider-image-2.jpeg": "/E-Commerce/static/media/slider-image-2.e510b0de8a4d96a1d5ad.jpeg",
+    "static/media/grocery-banner-2.jpeg": "/E-Commerce/static/media/grocery-banner-2.7a4a78a90acc3d5847cb.jpeg",
+    "static/media/fa-solid-900.woff2": "/E-Commerce/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/fa-brands-400.woff2": "/E-Commerce/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/error.svg": "/E-Commerce/static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
+    "static/media/fa-regular-400.ttf": "/E-Commerce/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/fa-regular-400.woff2": "/E-Commerce/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/XCM_Manual_1533480_5305769_379x304_1X._SY304_CB616236518_.jpg": "/E-Commerce/static/media/XCM_Manual_1533480_5305769_379x304_1X._SY304_CB616236518_.96a08320f0007d30af67.jpg",
+    "static/media/google-play.svg": "/E-Commerce/static/media/google-play.4cf9f5b4e46adc5f504afb9c6ff0f156.4cf9f5b4e46adc5f504afb9c6ff0f156.svg",
+    "static/media/fa-v4compatibility.ttf": "/E-Commerce/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/freshcart-logo.svg": "/E-Commerce/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/fa-v4compatibility.woff2": "/E-Commerce/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "static/media/cod-en.svg": "/E-Commerce/static/media/cod-en.abfc964830e15c5e9f1fd437949ca93a.abfc964830e15c5e9f1fd437949ca93a.svg",
+    "static/media/logo.svg": "/E-Commerce/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/card-mastercard.svg": "/E-Commerce/static/media/card-mastercard.752f7e25179580b3a52ad2685adac322.752f7e25179580b3a52ad2685adac322.svg",
+    "static/media/card-amex.svg": "/E-Commerce/static/media/card-amex.2d18bdded90ca527c261253cc5dc2531.2d18bdded90ca527c261253cc5dc2531.svg",
+    "static/media/card-visa.svg": "/E-Commerce/static/media/card-visa.0410ad10e0c833cc731196d7e27cd69a.0410ad10e0c833cc731196d7e27cd69a.svg",
+    "index.html": "/E-Commerce/index.html",
+    "main.07eab3b5.css.map": "/E-Commerce/static/css/main.07eab3b5.css.map",
+    "main.eac81c60.js.map": "/E-Commerce/static/js/main.eac81c60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07eab3b5.css",
+    "static/js/main.eac81c60.js"
+  ]
+}
